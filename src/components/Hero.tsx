@@ -25,9 +25,7 @@ export const Hero = () => {
       <div className="relative z-10 flex items-center justify-center min-h-screen px-4">
         <div className="text-center max-w-4xl mx-auto">
           <div className="mb-8">
-            <div className="inline-flex items-center justify-center w-20 h-20 rounded-full bg-primary/20 mb-6 shadow-[var(--shadow-glow)] border border-primary/50">
-              <Shield className="w-10 h-10 text-primary" />
-            </div>
+
             <h1 className="text-10xl md:text-8xl font-bold mb-4 text-foreground font-mono">
               PHISH<span className="text-primary animate-pulse">SHIELD</span>
               <br />
